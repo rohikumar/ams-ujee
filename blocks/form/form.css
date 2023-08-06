@@ -129,8 +129,8 @@ main .form .form-submit-wrapper .button {
   font-size: 0.8em;
   width: 120px;
   height: 40px;
-  background-color: #EFEEE7;
-  color: black;
+  background-color: red;
+  color: white;
 }
 
 @media (min-width: 900px) {
